@@ -1,0 +1,3 @@
+/home/artem/learning/VK_education/AaDS/homework_3/task_1/cmake-build-debug/CMakeFiles/homework_3.dir
+/home/artem/learning/VK_education/AaDS/homework_3/task_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artem/learning/VK_education/AaDS/homework_3/task_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
